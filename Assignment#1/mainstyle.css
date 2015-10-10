@@ -1,0 +1,118 @@
+body {
+	background-color : #3399CC;
+	opacity: inherit;
+
+}
+
+
+
+h1 {
+	position: absolute;
+ 	top: 0%;
+ 	left: 33%;
+	text-align: center;
+ 	text-decoration: underline;
+   	color : white;
+    font-family: rockwell ;
+  
+
+ }
+
+ h3 {
+	
+	position: absolute;
+ 	top: 8%;
+ 	left: 48%;
+  	color: white;
+  	font-family: calibri;
+  	font-size: 25px;
+  
+
+ }
+
+h2{
+	position: absolute;
+ 	top: 15%;
+ 	left: 36%;
+	text-align: center;
+	color: white;
+	font-family: consolas;
+	font-size: 27px;
+
+}
+h3{
+	
+	color: white;
+	font-family: consolas;
+  	font-size: 28px;
+
+}
+
+#learn h3{
+	color: white;
+	font-family: rockwell;
+	font-size: 28px;
+}
+
+#learn{
+		position: absolute;
+		top: 30%;
+		left: -10%;
+		width: 80%;
+
+
+}
+
+#ln{
+		position: absolute;
+		top: 30%;
+		left: 11%;
+		width: 80%;
+
+}
+
+#ln h3{
+	text-decoration: underline;
+}
+
+#quiz h3{
+	color: white;
+	font-family: rockwell;
+	font-size: 28px;
+}
+
+#quiz{
+		position: absolute;
+		top: 50%;
+		left: -10%;
+		width: 80%;
+
+
+}
+
+#qz{
+		position: absolute;
+		top: 50%;
+		left: 15%;
+		width: 80%;
+
+}
+
+#qz h3{
+	text-decoration: underline;
+}
+
+#or{
+
+		position: absolute;
+		top: 40%;
+		left: 5%;
+		width: 80%;
+
+}
+
+#or h3{
+	color: white;
+	font-family: rockwell;
+	font-size: 28px;
+}

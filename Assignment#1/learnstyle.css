@@ -1,0 +1,325 @@
+
+body {
+	background-color : #3399CC;
+	opacity: inherit;
+
+}
+
+
+
+h1 {
+	position: absolute;
+ 	top: 0%;
+ 	left: 33%;
+	text-align: center;
+ 	text-decoration: underline;
+   	color : white;
+    font-family: rockwell ;
+  
+
+ }
+
+ h3 {
+	
+	position: absolute;
+ 	top: 8%;
+ 	left: 48%;
+  	color: white;
+  	font-family: calibri;
+  	font-size: 25px;
+  
+
+ }
+
+h2{
+	position: absolute;
+ 	top: 15%;
+ 	left: 36%;
+	text-align: center;
+	color: white;
+	font-family: consolas;
+	font-size: 27px;
+
+}
+
+#chose h3{
+	position: absolute;
+ 	top : 24%;
+ 	left: 42%;
+  	color: white;
+  	font-family: calibri;
+  	font-size: 25px;
+
+}
+
+h3{
+	
+	color: white;
+	font-family: consolas;
+  	font-size: 28px;
+
+}
+
+#alphA{
+			position: absolute;
+			top: 30%;
+			left: 24%;
+
+  	}
+
+
+
+#alphB{
+			position: absolute;
+			top: 30%;
+			left: 26%;
+
+  	}
+
+#alphC{
+			position: absolute;
+			top: 30%;
+			left: 28%;
+
+  	}
+
+ #alphD{
+			position: absolute;
+			top: 30%;
+			left: 30%;
+
+  	}
+
+  
+
+  	#alphE{
+			position: absolute;
+			top: 30%;
+			left: 32%;
+
+  	}
+
+#alphF{
+			position: absolute;
+			top: 30%;
+			left: 34%;
+
+  	}
+
+  	#alphG{
+			position: absolute;
+			top: 30%;
+			left: 36%;
+
+  	}
+
+  	#alphH{
+			position: absolute;
+			top: 30%;
+			left: 38%;
+
+  	}
+
+  	#alphI{
+			position: absolute;
+			top: 30%;
+			left: 40%;
+
+  	}
+
+  	#alphJ{
+			position: absolute;
+			top: 30%;
+			left: 42%;
+
+  	}
+
+  	#alphK{
+			position: absolute;
+			top: 30%;
+			left: 44%;
+
+  	}
+
+  	#alphL{
+			position: absolute;
+			top: 30%;
+			left: 46%;
+
+  	}
+
+  	#alphM{
+			position: absolute;
+			top: 30%;
+			left: 48%;
+
+  	}
+
+  	#alphN{
+			position: absolute;
+			top: 30%;
+			left: 50%;
+
+  	}
+
+#alphO{
+			position: absolute;
+			top: 30%;
+			left: 52%;
+
+  	}
+
+  	#alphP{
+			position: absolute;
+			top: 30%;
+			left: 54%;
+
+  	}
+
+  	#alphQ{
+			position: absolute;
+			top: 30%;
+			left: 56%;
+
+  	}
+
+  	#alphR{
+			position: absolute;
+			top: 30%;
+			left: 58%;
+
+  	}
+
+  	#alphS{
+			position: absolute;
+			top: 30%;
+			left: 60%;
+
+  	}
+
+  	#alphT{
+			position: absolute;
+			top: 30%;
+			left: 62%;
+
+  	}
+
+  	#alphU{
+			position: absolute;
+			top: 30%;
+			left: 64%;
+
+  	}
+
+  	#alphV{
+			position: absolute;
+			top: 30%;
+			left: 66%;
+
+  	}
+
+  	#alphW{
+			position: absolute;
+			top: 30%;
+			left: 68%;
+
+  	}
+
+  	#alphX{
+			position: absolute;
+			top: 30%;
+			left: 70%;
+
+  	}
+
+#alphY{
+			position: absolute;
+			top: 30%;
+			left: 72%;
+
+  	}
+
+  	#alphZ{
+			position: absolute;
+			top: 30%;
+			left: 74%;
+
+  	}
+
+#images{
+		position: absolute;
+		top: 45%;
+		left :34%; 
+		max-width: 30%;
+		max-height: auto;
+		border-style: solid;
+		border-color: white;
+
+}
+
+figcaption{
+	position: absolute;
+	color: white ;
+	font-family: rockwell;
+	font-size: 28px;
+	top : 105%;
+	left : 38%;
+
+}
+
+#images div{
+
+  display:none;
+}
+
+#images div:target{
+  display: block;
+}
+
+#square {
+	position: absolute;
+	top: 30%;
+	left :50px;
+	width: 300px;
+	height: 300px;
+	border-style: solid;
+	border-color: white;
+	background: rgb(236,76,60);
+}
+
+#circle {
+	position: absolute;
+	width: 280px;
+	height: 280px;
+	top: 30%;
+	left :65px;
+	background: rgb(236,76,60);
+	border-style: solid;
+	border-color: white;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 80%;
+}
+
+#oval {
+	position: absolute;
+	width: 350px;
+	height: 200px;
+	top: 30%;
+	left :65px;
+	background-color: rgb(236,76,60);
+	-moz-border-radius: 400px / 200px;
+	-webkit-border-radius:	300px / 150px;
+	border-radius: 300px / 200px;
+}
+
+#rectangle {
+	position: absolute;
+	top: 30%;
+	left :50px;
+	width: 350px;
+	height: 200px;
+	border-style: solid;
+	border-color: white;
+	background: rgb(236,76,60);
+}
